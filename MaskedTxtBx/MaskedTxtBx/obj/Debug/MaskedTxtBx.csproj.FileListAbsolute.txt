@@ -1,0 +1,9 @@
+C:\Users\danie\source\repos\MaskedTxtBx\MaskedTxtBx\bin\Debug\MaskedTxtBx.exe.config
+C:\Users\danie\source\repos\MaskedTxtBx\MaskedTxtBx\bin\Debug\MaskedTxtBx.exe
+C:\Users\danie\source\repos\MaskedTxtBx\MaskedTxtBx\bin\Debug\MaskedTxtBx.pdb
+C:\Users\danie\source\repos\MaskedTxtBx\MaskedTxtBx\obj\Debug\MaskedTxtBx.csprojAssemblyReference.cache
+C:\Users\danie\source\repos\MaskedTxtBx\MaskedTxtBx\obj\Debug\MaskedTxtBx.Form1.resources
+C:\Users\danie\source\repos\MaskedTxtBx\MaskedTxtBx\obj\Debug\MaskedTxtBx.Properties.Resources.resources
+C:\Users\danie\source\repos\MaskedTxtBx\MaskedTxtBx\obj\Debug\MaskedTxtBx.csproj.GenerateResource.cache
+C:\Users\danie\source\repos\MaskedTxtBx\MaskedTxtBx\obj\Debug\MaskedTxtBx.exe
+C:\Users\danie\source\repos\MaskedTxtBx\MaskedTxtBx\obj\Debug\MaskedTxtBx.pdb

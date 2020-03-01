@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29728.190
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MaskedTxtBx", "MaskedTxtBx\MaskedTxtBx.csproj", "{334BFFBA-7D81-494A-B548-EF4B8C3DE06B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{334BFFBA-7D81-494A-B548-EF4B8C3DE06B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{334BFFBA-7D81-494A-B548-EF4B8C3DE06B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{334BFFBA-7D81-494A-B548-EF4B8C3DE06B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{334BFFBA-7D81-494A-B548-EF4B8C3DE06B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {64D0C5A5-5762-4DAE-8F22-7811450F563A}
+	EndGlobalSection
+EndGlobal
